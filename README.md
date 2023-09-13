@@ -1,7 +1,7 @@
 # Demostracion Nagios 
 Porfavor seguir las siguientes configuraciones para obtener la demostracion al 100% funcional. 
 
-#1 actualizamos nuestro server 
+## 1 actualizamos nuestro server 
 
 ```bash
 sudo apt update
